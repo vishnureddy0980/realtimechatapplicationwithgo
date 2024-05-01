@@ -25,3 +25,4 @@ method :GET
 
 With this endpoints we can create multiple users and establish chat sessions between them using websocket
 
+github url :https://github.com/vishnureddy0980/realtimechatapplicationwithgo
